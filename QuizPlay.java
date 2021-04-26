@@ -330,7 +330,7 @@ class QuizPlay
 			}
 			System.out.println("Do you want to continue: y/n");
 			conti=s.next();
-		}while(conti.equals("y"));
+		}while(conti.equals("y"));;;
 	}
 
 }
